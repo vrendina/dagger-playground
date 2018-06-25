@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger Playground</string>
+    <string name="production_value">Production saved value:</string>
+</resources>
